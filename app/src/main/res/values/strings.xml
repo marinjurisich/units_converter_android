@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Converter</string>
+
+    <string-array name="metric_units_labels">
+        <item>Meter (m)</item>
+        <item>Centimeter (cm)</item>
+        <item>Kilometer (km)</item>
+        <item>Millimeter (mm)</item>
+    </string-array>
+    <string-array name="metric_units_values">
+        <item>1</item>
+        <item>0.01</item>
+        <item>1000</item>
+        <item>0.001</item>
+    </string-array>
+
+    <string-array name="imperial_units_labels">
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+        <item>Inches</item>
+    </string-array>
+    <string-array name="imperial_units_values">
+        <item>3.2808</item>
+        <item>1.0936133</item>
+        <item>0.000621371192</item>
+        <item>39.3700787</item>
+    </string-array>
+
+
+    <string-array name="metric_units_weight_labels">
+        <item>Kilogram (kg)</item>
+        <item>Decagrams (dg)</item>
+        <item>Tons (t)</item>
+        <item>Grams (g)</item>
+    </string-array>
+    <string-array name="metric_units_weight_values">
+        <item>1</item>
+        <item>0.01</item>
+        <item>1000</item>
+        <item>0.001</item>
+    </string-array>
+
+    <string-array name="imperial_units_weight_labels">
+        <item>Pounds</item>
+        <item>Ounces</item>
+        <item>Stone</item>
+    </string-array>
+    <string-array name="imperial_units_weight_values">
+        <item>2.20462262</item>
+        <item>35.2739619</item>
+        <item>0.157473044</item>
+    </string-array>
+
+
+</resources>
